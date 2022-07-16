@@ -1,0 +1,9 @@
+- 👋 Hi, Myself Sagar Parmar and I’m Web Developer at https://www.edeltaes.com/.
+- 👀 I’m interested in web development and coding stuff like JavaScript, RactJS, and DataStructures...
+- 🌱 I’m currently learning JavaScript, RactJS, and DataStructures...
+- 📫 You can reach out to me at sagar.parmar7006@gmail.com...
+
+<!---
+SagarParmarr/SagarParmarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
