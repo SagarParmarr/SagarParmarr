@@ -1,6 +1,7 @@
-- 👋 Hi, myself Sagar Parmar and I’m Backend Developer.
-- 👀 I’m interested in web development and coding stuff like JavaScript, React.js, and Problem Solving with root cause analysis...
-- 🌱 I’m currently learning JavaScript, Node.js, React.js, and DataStructures...
+- 👋 Hi, myself Sagar Parmar, and I’m Frontend Developer.
+  
+- 👀 A dedicated and skilled Frontend Developer with 1.5 years of experience in building user-friendly and responsive web applications using technologies like HTML, CSS, JavaScript, React, Redux, Vue.js, and Vuex. Seeking to leverage my expertise and knowledge in frontend          development to contribute effectively to a dynamic team and create innovative solutions for users.
+  
 - 📫 You can reach out to me at sagar.parmar7006@gmail.com...
 
 <!---
