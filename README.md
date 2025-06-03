@@ -1,6 +1,6 @@
-- 👋 Hi, myself Sagar Parmar, and I’m Software Developer.
+- 👋 Hi, myself Sagar Parmar
   
-- 👀 A dedicated and skilled Frontend Developer with 1.5 years of experience in building user-friendly and responsive web applications using technologies like HTML, CSS, JavaScript, React, Redux, Vue.js, and Vuex. Seeking to leverage my expertise and knowledge in frontend          development to contribute effectively to a dynamic team and create innovative solutions for users.
+- 👀 Frontend Engineer with 3 years of experience designing and building scalable, high-performance web applications. Proficient in modern JavaScript frameworks (Vue 2/3, React.js) and deeply experienced in creating responsive, cross-platform UIs. Proven track record of improving product performance, scaling systems, and leading high-impact features. Looking for SDE-1 or SDE-2 Frontend Engineer opportunities to drive product growth and build scalable frontend solutions.
   
 - 📫 You can reach out to me at sagar.parmar7006@gmail.com...
 
