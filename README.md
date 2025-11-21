@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-stack developer with a strong frontend foundation. interested in AI and always learning.</p>
+<h3 align="left">Full-stack developer with a strong frontend foundation. interested in AI and always learning.</h3>
 
 ###
 
