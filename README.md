@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently building the Vyavstha App. focusing on clean. scalable frontend and full-stack features<br>📚 Leveling up with Next.js to deliver faster and more modern web experiences<br>🤔 Open to contributing to impactful products where I can add real value and grow with the team<br>🤝 Reach me at: sagarparmar.sde@gmail.com<br>🚀 Always learning. improving. and aiming to ship meaningful work</p>
+<p align="left">✨ Currently upskilling by building Apps. focusing on clean. scalable frontend and full-stack features<br>📚 Leveling up with Next.js to deliver faster and more modern web experiences<br>🤔 Open to contributing to impactful products where I can add real value and grow with the team<br>🤝 Reach me at: sagarparmar.sde@gmail.com<br>🚀 Always learning. improving. and aiming to ship meaningful work</p>
 
 ###
 
