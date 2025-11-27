@@ -48,11 +48,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div><br/>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SagarParmarr&theme=github_dark" alt="Github Contributions" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SagarParmarr/SagarParmarr/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SagarParmarr/SagarParmarr/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
