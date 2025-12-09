@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Full-stack developer with a strong frontend foundation. interested in AI and always learning.</h3>
+<h3 align="left">Frontend engineer with four years of building high-performance, scalable web experiences. Now expanding into full-stack development while applying AI to solve real engineering and automation challenges.</h3>
 
 ###
 
