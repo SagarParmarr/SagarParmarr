@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Frontend engineer with four years of building high-performance, scalable web experiences. Now expanding into full-stack development while applying AI to solve real engineering and automation challenges.</h3>
+<h3 align="left">Software engineer with four years of building high-performance, scalable web experiences. Now expanding into full-stack development while applying AI to solve real engineering and automation challenges.</h3>
 
 ###
 
