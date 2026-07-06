@@ -8,7 +8,7 @@
 
 <h2 align="left">Skills</h2>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SagarParmarr&theme=github_dark" alt="Github Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SagarParmarr&theme=github_dark" alt="GitHub Contributions" />
 </div>
 
 ###
