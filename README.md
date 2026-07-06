@@ -2,15 +2,7 @@
 
 ###
 
-<h3 align="left">Software engineer with four years of building high-performance, scalable web experiences. Now expanding into full-stack development while applying AI to solve real engineering and automation challenges.</h3>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Currently upskilling by building more Apps. focusing on clean. scalable frontend and full-stack features<br>📚 Leveling up with Next.js to deliver faster and more modern web experiences<br>🤔 Open to contributing to impactful products where I can add real value and grow with the team<br>🤝 Reach me at: sagarparmar.sde@gmail.com<br>🚀 Always learning. improving. and aiming to ship meaningful work</p>
+<h3 align="left">Software Engineer with nearly 4 years of experience turning ambiguous product problems into reliable, scalable systems. Hands-on across frontend, backend, analytics, and cloud, with a strong focus on ownership, performance, and clean execution. Problem solver with 750+ coding problems solved, focused on writing clean code and building reliable features that work well in production.</h3>
 
 ###
 
@@ -25,25 +17,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="postgresql logo"  />
 </div><br/>
 
 ###
